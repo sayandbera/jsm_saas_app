@@ -1,3 +1,5 @@
+export const DEFAULT_PAGE = 1;
+
 export const subjects = [
   "maths",
   "language",
